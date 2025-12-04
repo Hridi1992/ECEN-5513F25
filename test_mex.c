@@ -1,0 +1,1 @@
+#include "mex.h"\nvoid mexFunction(int nlhs, mxArray *plhs[], int nrhs, const mxArray *prhs[]) {}

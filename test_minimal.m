@@ -1,0 +1,1 @@
+function y = test_minimal(x)\n%%#codegen\ny = sum(x);\nend\n
